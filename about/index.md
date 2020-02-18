@@ -19,7 +19,7 @@ comments: false
 
 
 {% capture images %}
-    https://i.loli.net/2020/02/19/lkbMY7rzGA9RnXd.jpg
+    https://i.loli.net/2020/02/19/5iAUI3wCa7lQoG4.jpg
     https://i.loli.net/2020/02/19/mXjqhE59ZOvBMNc.jpg
 {% endcapture %}
 {% include gallery images=images caption="小肖冲鸭!" cols=2 %}
