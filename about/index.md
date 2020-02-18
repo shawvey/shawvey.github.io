@@ -3,7 +3,7 @@ layout: page
 title: 默默无名的blog
 tags: [about]
 date: 2020-02-18
-feature: /assets/img/about.png
+feature: /assets/img/jpg.png
 comments: false
 ---
 
