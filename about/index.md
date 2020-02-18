@@ -1,24 +1,15 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: 默默无名的blog
+tags: [about]
+date: 2020-02-18
+feature: /assets/img/some-image.png
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+算来从17年开始，已经是第三个年头写博客啦（虽然文章都很烂）。2020年对我而言很重要，我也在这个年初决定了以后的就业方向，从事前端开发工作。其实之前是死磕于数据分析，但后来因为很多因素，无奈放弃。目前自己对前端抱有很大的喜爱与热情，希望2020年里自己能多写一些高质量学习笔记和文章，为下半年的秋招做好十足的准备。
+
+2020年
 
 ## Preview
 
@@ -28,10 +19,10 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+
 
 ## Getting Started
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[My Github](https://github.com/shawvey){: .btn}
