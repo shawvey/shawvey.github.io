@@ -39,8 +39,8 @@ disqus_shortname:   shawvey
 #bing-verify:
 email:              shawvey@163.com
 twitter:            _shawvey
-facebook:           肖小月
-github-url:         shawvey.github.io
+#facebook:           肖小月
+github-url:         https://github.com/shawvey
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
