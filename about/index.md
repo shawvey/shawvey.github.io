@@ -1,6 +1,6 @@
 ---
 layout: page
-title: shawvey's blog
+title: 关于这个小破站
 tags: [about]
 date: 2020-02-18
 comments: false
@@ -18,7 +18,7 @@ comments: false
 
 
 {% capture images %}
-    https://i.loli.net/2020/02/19/5iAUI3wCa7lQoG4.jpg
+    https://i.loli.net/2020/02/19/EM1F8aD4cJnOwzX.jpg
     https://i.loli.net/2020/02/19/mXjqhE59ZOvBMNc.jpg
 {% endcapture %}
 {% include gallery images=images caption="小肖冲鸭!" cols=2 %}
