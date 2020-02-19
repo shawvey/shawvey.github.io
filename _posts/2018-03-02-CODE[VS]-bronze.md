@@ -1,12 +1,10 @@
 ---
-img: 15.jpg
 layout: post
 title:  "CODE[VS]-bronze"
-date:   2018-03-02 14:37:47 +0700
-categories: posts
+date:   2018-03-02
+excerpt:"CODE[VS]-bronze练习题"
 tags: [C/C++]
-comments: True
-author: shawvey
+comments: true
 ---
 
 > 四月初就是蓝桥杯了，开始全力准备蓝桥杯。目标不大，拿到省三就好啦，拍拍肩！

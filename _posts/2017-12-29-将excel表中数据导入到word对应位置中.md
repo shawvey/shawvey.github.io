@@ -1,12 +1,10 @@
 ---
-img: 10.jpg
 layout: post
 title:  "将excel表中数据导入到word对应位置中"
-date:   2017-12-29 9:42:47 +0700
-categories: posts
+date:   2017-12-29
+excerpt:"将excel表中数据导入到word对应位置中"
 tags: [python]
-comments: True
-author: shawvey
+comments: true
 ---
 ### 一、实验数据与目的   
 
@@ -51,7 +49,7 @@ tables = excel_table_byname()
 读取word文档：     
 ``` python
 doc = docx.Document(r"C:\Users\烫烫\Desktop\tecent\实务单选题.docx")
-``` 
+```
 
 #### 2、将excel数据一个一个导入word中去   
 
@@ -81,7 +79,7 @@ for para in doc.paragraphs :
     if para.text.find('题目标签')!=-1 and parag<len(tables):
 		para.add_run(tables[parag][6])
 		parag=parag+1
-``` 
+```
 到这里还并没有结束，因为word中题目标签本身就有内容，我们需要将其替换。python的docx没有能替换一部分的解决办法，我采取将这行先置空，然后自己添加相同格式的“题目标签：”,再后面追加excel对应的内容。其中有一个小坑，题目标签加粗了，而冒号没有加粗，所以分开追加。            
 ``` python
 para.text=''
@@ -94,7 +92,7 @@ q.font.size = Pt(10.5)
 q.font.name=u'等线 (中文正文)'
 para.add_run(tables[parag][6])
 parag=parag+1
-``` 
+```
 最后，存储文档即可。     
 ``` python
 doc.save(u'D://测试.docx')

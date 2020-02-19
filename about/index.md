@@ -1,9 +1,8 @@
 ---
 layout: page
-title: 默默无名的blog
+title: shawvey's blog
 tags: [about]
 date: 2020-02-18
-feature: /assets/img/jpg.png
 comments: false
 ---
 

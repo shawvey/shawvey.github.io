@@ -1,12 +1,10 @@
 ---
-img: 17.jpg
 layout: post
 title:  "CODE[VS]-silver"
-date:   2018-03-12 14:37:47 +0700
-categories: posts
+date:   2018-03-12
+excerpt:"CODE[VS]-silver练习题"
 tags: [C/C++]
-comments: True
-author: shawvey
+comments: true
 ---
 
 > 终于做完silver了，准备做Gold了。这次不仅要打蓝桥杯还有天梯赛，啊~感觉对二叉树很不熟，以后晚上回去要看之前买的数据结构书才行了，不然难题肯定做不出来。
@@ -555,4 +553,4 @@ int main(){
 	return 0;
 } 
 ```
-                 
+

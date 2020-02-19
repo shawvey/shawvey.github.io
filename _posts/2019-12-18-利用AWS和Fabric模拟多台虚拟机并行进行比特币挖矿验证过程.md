@@ -1,13 +1,10 @@
 ---
-img: 24.jpg
 layout: post
 title:  "利用AWS和Fabric模拟多台虚拟机并行进行比特币挖矿验证过程"
-date:   2019-12-18 19:37:47 +0700
-categories: posts
-tags: [云计算,python]
-comments: True
-author: shawvey
-
+date:   2019-12-18
+excerpt: "使用亚马逊云服务和Fabric库来并行多台VMs模仿比特币挖矿验证过程"
+tags: [cloud computing,python]
+comments: true
 ---
 
 > 该项目用到了AWS的EC2、SQS、S3服务，并利用Fabric库让虚拟机执行shell语句。项目代码：[Cloud Nonce Discovery](https://github.com/shawvey/Cloud-Nonce-Discovery)

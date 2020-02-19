@@ -2,13 +2,13 @@
 img: 3.jpg
 layout: post
 title:  "C tutorial"
-date:   2017-11-26 23:09:47 +0700
-categories: posts
+excerpt: "C语言一些容易遗忘的知识点"
+date:   2017-11-26
 tags: [C]
-author: shawvey
+comments: true
 ---
 ### 英语词汇
- 
+
 unary 一元  
 syntax 句法  
 colon 冒号  

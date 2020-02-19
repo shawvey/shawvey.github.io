@@ -1,14 +1,10 @@
 ---
-img: 6.jpg
 layout: post
 title:  "scikit learn"
-crawlertitle: "scikit learn"
-summary: "了解scikit以及实现"
 excerpt: "了解scikit以及实现"
-date:   2017-11-27 23:09:47 +0700
-categories: posts
-tags: [机器学习]
-author: shawvey
+date:   2017-11-27
+tags: [machine learning]
+comments: true
 ---
 ### Scikit-learn**是什么**
 [Scikit-learn](http://scikit-learn.org/stable/ "sklearn")（以下简称sklearn）是开源的Python机器学习库，它基于Numpy和Scipy，提供了大量用于数据挖掘和分析的工具，包括数据预处理、交叉验证、算法与可视化算法等一系列接口。
@@ -57,7 +53,7 @@ clf.fit(xtrain,ytrain)
 predicted = clf.predict(xtest)
 print(predicted)
 print('正确率为：%f'%accuracy_score(ytest,predicted))
-``` 
+```
 结果：
 ``` bash
 DecisionTreeClassifier(class_weight=None, criterion='entropy', max_depth=None,
@@ -68,7 +64,7 @@ DecisionTreeClassifier(class_weight=None, criterion='entropy', max_depth=None,
 ['no lenses' 'hard' 'soft' 'no lenses' 'soft' 'hard' 'no lenses'
  'no lenses']
 正确率为：0.750000
-``` 
+```
 <br>
 ### **朴素贝叶斯-当气候情况如下时，判断是否出去打网球**
 
@@ -145,7 +141,7 @@ print(logreg)
 print(prepro)
 acc = logreg.score(X_test_std,TestLabel)
 print(acc)
-``` 
+```
 结果：
 ``` bash
 LogisticRegression(C=100000.0, class_weight=None, dual=False,
