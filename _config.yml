@@ -26,9 +26,10 @@ sass:
   style:            compressed
 
 # Comments
-layout: default
-comments: true
-disqus_shortname: shawvey
+disqus:
+    comments: true
+    enable: true
+    disqus_shortname: shawvey
 
 # Social
 # if you don't have any of social below, comment the line.
