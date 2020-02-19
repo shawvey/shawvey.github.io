@@ -27,6 +27,7 @@ sass:
 
 # Comments
 layout: default
+comments: true
 disqus_shortname: shawvey
 
 # Social
