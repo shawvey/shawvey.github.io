@@ -2,7 +2,7 @@
 layout: post
 title:  "CODE[VS]-bronze"
 date:   2018-03-02
-excerpt:"CODE[VS]-bronze练习题"
+excerpt: "CODE[VS]-bronze练习题"
 tags: [C/C++]
 comments: true
 ---

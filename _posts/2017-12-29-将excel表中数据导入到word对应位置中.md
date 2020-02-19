@@ -2,7 +2,7 @@
 layout: post
 title:  "将excel表中数据导入到word对应位置中"
 date:   2017-12-29
-excerpt:"将excel表中数据导入到word对应位置中"
+excerpt: "将excel表中数据导入到word对应位置中"
 tags: [python]
 comments: true
 ---
