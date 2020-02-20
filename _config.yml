@@ -27,8 +27,8 @@ sass:
 
 # Comments
 disqus:
-    comments: true
-    enable: true
+    comments: false
+    enable: false
     disqus_shortname: shawvey
 
 # Social
