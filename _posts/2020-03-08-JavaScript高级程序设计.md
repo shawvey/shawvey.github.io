@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: JavaScript高级程序设计
 title: "红宝书笔记"
 date: 2020-03-08
-excerpt: "红宝书笔记📕"
+excerpt: "《JavaScript高级程序设计》📕"
 tags: [front end]
 comments: false
 ---
