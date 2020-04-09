@@ -21,7 +21,17 @@ comments: false
     <embed src="https://drive.google.com/uc?export=view&id=1MLyN6mFvYnxlvlBwqYFQI_ibHO9d7WS1">
 </object>
 
-<p>Please download the PDF to view it: <a href="https://drive.google.com/uc?export=view&id=1MLyN6mFvYnxlvlBwqYFQI_ibHO9d7WS1">Download PDF</a>.</p>
+
+
+
+
 #### 阅读笔记👀
 
-用gitbook按章节记录红宝书阅读笔记🎯：[戳此处🤪](https://shawvey.github.io/Notes-for-js/)
+红宝书阅读笔记🎯：[戳此处🔫](https://shawvey.github.io/Notes-for-js/)
+
+
+
+#### 2020.04.09更新
+
+坚持看了红宝书快一个月了，打卡一下✊。目前已经看完了前八章的内容，看完了作用域、引用类型、模式、原型链、继承、闭包、BOM等重要部分，本书最重要的内容也差不多快看完了。不得不说，这本书写的真的太棒了，写的很清楚也很有逻辑，之后还会复看几遍，等回国了一定要买纸质版来读读hhh。(可能那会第四版译本已经出来了8～期待地搓搓手😆)
+
