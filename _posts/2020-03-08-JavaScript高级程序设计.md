@@ -27,7 +27,7 @@ comments: false
 
 #### 阅读笔记👀
 
-红宝书阅读笔记🎯：[戳此处🔫](https://shawvey.github.io/Notes-for-js/)
+红宝书阅读笔记🎯：[戳此处🔫](https://shawvey.github.io/Book-Notes/)
 
 
 
